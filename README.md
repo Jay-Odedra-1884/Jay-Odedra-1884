@@ -82,10 +82,10 @@ and build something that people can actually use.
 
 ### 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/jayodedra1884/
-* 🐦 X: https://x.com/JayOdedra1884
-* 📧 Email: jayodedra9919@gmail.com
-* 🌍 Portfolio: https://portfolio-gules-phi-28.vercel.app/
+* 💼 [LinkedIn](https://www.linkedin.com/in/jayodedra1884/)
+* 🐦 [X](https://x.com/JayOdedra1884)
+* 📧 [Email](mailto:jayodedra9919@gmail.com)
+* 🌍 [Portfolio](https://portfolio-gules-phi-28.vercel.app/)
 
 ---
 

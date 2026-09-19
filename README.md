@@ -13,7 +13,7 @@ I enjoy building real-world applications from scratch — from **database design
 * 🌱 Going deeper into **Node.js, NestJS, system design & backend development**
 * 🛠️ Building and experimenting with my own products and side projects
 
-###Curruntly Working on
+### Curruntly Working on
 
 * JobDash - manage all your cold mail applications at this platform 
 
